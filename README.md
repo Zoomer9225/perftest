@@ -1,2 +1,2 @@
-# perftest{fileText}
+# perftest
 text6
