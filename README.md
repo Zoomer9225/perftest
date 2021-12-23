@@ -1,4 +1,2 @@
 # perftest
-{filetext}
-text
-text
+text1
