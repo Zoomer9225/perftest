@@ -32,9 +32,3 @@ text30
 text31
 text32
 text33
-text34
-text35
-text36
-text37
-text38
-text39
