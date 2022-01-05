@@ -1,5 +1,4 @@
-# perftest
-text1
+# perftest\r\ntext1
 text2
 text3
 text4
@@ -13,4 +12,4 @@ text11
 text12
 text13
 text14
-text15
+text15\r\ntext333
